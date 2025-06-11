@@ -1,5 +1,5 @@
 ---
-name: Axe structurant Est-Ouest
+name: Axe d'ossature Est-Ouest
 line: 1
 from: Neuilly sur Marne
 to: Champs-sur-Marne
@@ -14,11 +14,15 @@ cover: https://mdb-idf.org/wp-content/uploads/2023/10/logo-mdb.png
 
 Promise depuis un moment, la passerelle parallèle au pont sur la Marne verra-t-elle un jour le jour ?
 
-### D970 Route de Neuilly
+### Route de Neuilly
 
 Le passage d'une piste cyclable ici est-il même possible ?
 
-### La suite
+### Rue Brossolette
+
+### Boulevard Paul Pambrun
+
+### Avenue Emile Cossonneau
 
 Il y a eu une corona-piste mise en place par le département, puis... plus rien.
 

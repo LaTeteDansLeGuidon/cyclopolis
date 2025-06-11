@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pont_a4_mont_dest",
+        "line": 6,
+        "name": "Rue Graham Bell",
+        "status": "unknown",
+        "type": "bilaterale"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.547396915670703,
+            48.837227777646405
+          ],
+          [
+            2.5473498172139273,
+            48.83592575125007
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bd_levant",
+        "line": 6,
+        "name": "Boulevard du Levant",
+        "status": "unknown",
+        "type": "bilaterale"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.5485626258116554,
+            48.838474335995755
+          ],
+          [
+            2.5473868281206364,
+            48.837232192541336
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rue_bell",
+        "line": 6,
+        "name": "Rue Graham Bell",
+        "status": "unknown",
+        "type": "bilaterale"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.547348310745633,
+            48.83595088723544
+          ],
+          [
+            2.5473937567633413,
+            48.83557253004906
+          ],
+          [
+            2.547273004577363,
+            48.83496070153649
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "av_rodin",
+        "line": 6,
+        "name": "Avenue Auguste Rodin",
+        "status": "unknown",
+        "type": "bilaterale"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.5472738977751135,
+            48.83496077410578
+          ],
+          [
+            2.548998126666902,
+            48.83497556158986
+          ],
+          [
+            2.5513636735432783,
+            48.83318845870295
+          ],
+          [
+            2.5518956333883125,
+            48.832803623040746
+          ],
+          [
+            2.552253784571718,
+            48.832495058978
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "av_rodin",
+        "line": 6,
+        "name": "Avenue Auguste Rodin",
+        "status": "done",
+        "type": "voie-verte",
+        "quality":"unsatisfactory"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.5522495793785254,
+            48.83249358732874
+          ],
+          [
+            2.5559976314997925,
+            48.8321176312208
+          ],
+          [
+            2.5574343833485784,
+            48.83195314873447
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "av_fort",
+        "line": 6,
+        "name": "Avenue du Fort",
+        "status": "done",
+        "type": "bilaterale",
+        "quality": "unsatisfactory"
+    },
+      "geometry": {
+        "coordinates": [
+          [
+            2.557429918975373,
+            48.8319560865709
+          ],
+          [
+            2.558547480467979,
+            48.83059636440305
+          ],
+          [
+            2.5587750407747762,
+            48.83029676326311
+          ],
+          [
+            2.558824122409959,
+            48.83007646716476
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
